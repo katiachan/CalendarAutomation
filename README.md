@@ -9,4 +9,4 @@ Follow these steps before you start adding automation tasks
 3. Install the Google Client Library by running the command:\
 ```pip install --upgrade google-api-python-client google-auth-httplib2 google-auth-oauthlib```
 4. Run the program using:\
-```python quickstart.py```
+```python autocal.py```
